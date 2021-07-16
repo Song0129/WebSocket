@@ -1,0 +1,7 @@
+//登录
+package message;
+
+//登录请求
+message MessageReq{
+	required string text = 1; //发送的消息
+}
